@@ -1,7 +1,10 @@
 source 'https://rubygems.org'
 
+# Use simple_form
+gem 'simple_form'
 # Use bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use sqlite3 as the database for Active Record
