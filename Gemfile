@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
 
-# Use simple_form
-gem 'simple_form'
 # Use bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+# Use simple_form
+gem 'simple_form'
+# Use Devise
+gem 'devise'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
