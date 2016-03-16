@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Use PostGres as database
+gem 'pg'
 # Use bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 # Use simple_form
