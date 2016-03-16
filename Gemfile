@@ -6,6 +6,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'simple_form'
 # Use Devise
 gem 'devise'
+# Use Gravatarify for profile pics
+gem 'gravatarify', '~> 3.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
