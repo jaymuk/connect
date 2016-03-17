@@ -12,6 +12,8 @@ gem 'devise'
 gem 'gravatarify', '~> 3.0.0'
 # Use public activity for facebook like activity posts
 gem 'public_activity'
+# Rails extension for transfrming URLs to appropriate resource
+gem 'auto_html'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
